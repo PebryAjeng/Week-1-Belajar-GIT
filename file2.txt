@@ -1,2 +1,6 @@
 Ini file2
+<<<<<<< HEAD
 fitureA
+=======
+FitureA
+>>>>>>> fitureA
